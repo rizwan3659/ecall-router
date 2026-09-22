@@ -1,0 +1,11 @@
+# tac,service,psap-uri   ("*" = default for that service)
+1a01,sos,sip:psap-112@delhi.psap.example
+1a01,police,sip:police-100@delhi.psap.example
+1a01,fire,sip:fire-101@delhi.psap.example
+1a02,sos,sip:psap-112@gurugram.psap.example
+1a03,sos,sip:psap-112@noida.psap.example
+2b01,sos,sip:psap-112@mumbai.psap.example
+2b01,ambulance,sip:amb-108@mumbai.psap.example
+2b02,sos,sip:psap-112@pune.psap.example
+3c01,sos,sip:psap-112@bengaluru.psap.example
+*,sos,sip:psap-112@national.psap.example
